@@ -1,0 +1,13 @@
+[project]
+name = "tp4-transformer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
+    "transformers>=5.22.1",
+]
